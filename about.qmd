@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+### **About this site**
+
+This site is used to display all the work I've done for my Information Management course and past projects throughout my master's degree.
+
+**M.S Social Data Analytics and Research**

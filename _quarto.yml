@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "EPPS6354 Website New"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: information-management.qmd
+        text: Information Management
+
+format:
+  html:
+    theme: flatly 
+    css: styles.css
+    toc: true
+
+editor: visual
+
